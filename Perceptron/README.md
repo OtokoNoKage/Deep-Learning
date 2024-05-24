@@ -9,3 +9,7 @@ Ce projet implémente le modèle du perceptron en python et explicite, à traver
 <div style="text-align: center;">
     <img src="./Plots/Train-Perceptron-(Sigmoid-LogLoss).gif" alt="Local GIF" width="1080">
 </div>
+
+<div style="text-align: center;">
+    <img src="./Plots/Validation-Perceptron-(Sigmoid-LogLoss).gif" alt="Local GIF" width="1080">
+</div>
