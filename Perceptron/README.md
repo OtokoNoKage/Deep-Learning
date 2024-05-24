@@ -1,5 +1,5 @@
 # Perceptron
 ***
-Ce projet implémente le modèle du perceptron et explicite à travers un [pdf](.illustrations/perceptron.pdf)
+Ce projet implémente le modèle du perceptron en python et explicite à travers un [pdf](.Documentation/perceptron.pdf) et des gifs le fonctionnement du perceptron.
 
 ![Local GIF](./Plots/Train-Perceptron-(Sigmoid-LogLoss).gif)
