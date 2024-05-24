@@ -4,7 +4,7 @@ Ce projet implémente le modèle du perceptron en python et explicite à travers
 
 Dans le contexte du perceptron, notre base de données est constitué de n exemples, dont chaque exemple possède p caractéristiques. Ainsi, nous pouvons écrire (X,Y) $\in$ $\mathbb{M}_{n,p}(\mathbb{R}) \times \mathbb{M}_{n,1}(\mathbb{R})$, avec n, p $\in$ $\mathbb{N}^{*}$.
 Les lignes de X représentent les exemples, et les colonnes représentent les caractéristiques:
-\[ X =
+$$ X =
 \begin{pmatrix}
     x_{1}^{[1]} & \cdots  \cdots & x_{1}^{[j]} & \cdots  \cdots & x_{1}^{[p]} \\
     \vdots & \ddots & \vdots & \cdots & \vdots \\
@@ -20,7 +20,7 @@ Y =
     \vdots \\
     y_{n}
 \end{pmatrix}
-\]
+$$
 
 Chaque donnée en entrée est associée à un \textbf{poids} (noté $w_{j}$, $\forall$ j $\in$ [|1;p|]). Il s'agit d'une somme pondérée des $x_{j}$ auquel nous ajoutons un \textbf{biais} noté b. Maintenant, nous pouvons voir cela comme un modèle linéaire.\\\\
 $\forall$ x $\in$ X (x $\in$ $\mathbb{M}_{1,p}$), vecteur ligne de X, un exemple de la base de données.
