@@ -2,7 +2,7 @@
 ***
 Ce projet implémente le modèle du perceptron en python et explicite à travers un [pdf](./Documentation/Perceptron.pdf) et des gifs sur le fonctionnement du perceptron.
 
-Dans le contexte du perceptron, notre base de données est constitué de n exemples, dont chaque exemple possède p caractéristiques. Ainsi, nous pouvons écrire (X,Y) $\in$ $\mathbb{M}_{n,p}(\mathbb{R}) \times \mathbb{M}_{n,1}(\mathbb{R})$, avec n, p $\in$ $\mathbb{N}^{*}$.
+Dans le contexte du perceptron, notre base de données est constitué de n exemples, dont chaque exemple possède p caractéristiques. Ainsi, nous pouvons écrire (X,Y) $\in$ $\mathbb{M}**_{n,p}(\mathbb{R}) \times \mathbb{M}_{n,1}(\mathbb{R})$, avec n, p $\in$ $\mathbb{N}^{*}$.
 Les lignes de X représentent les exemples, et les colonnes représentent les caractéristiques:
 $$ X =
 \begin{pmatrix}
