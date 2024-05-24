@@ -21,5 +21,5 @@ Ce projet implémente le modèle du perceptron en python et explicite, à traver
 </div>
 
 <div style="text-align: center;">
-    <img src="./Plots/Validation-Perceptron-(TanG-MSELoss).gif" alt="Local GIF" width="1080">
+    <img src="./Plots/Validation-Perceptron-(TanH-MSELoss).gif" alt="Local GIF" width="1080">
 </div>
