@@ -28,7 +28,7 @@ Ce projet implémente le modèle du perceptron en python et explicite, à traver
 </div>
 
 ## Heaviside - MSELoss
-La fonction Heaviside est inutilisable en associant un neurone formel avec la descente de gradient.
+La fonction Heaviside est inutilisable en associant un neurone formel avec la descente de gradient, car sa dérivée est nulle.
 ### Training
 <div style="text-align: center;">
     <img src="./Plots/Train-Perceptron-(Heaviside-MSELoss).gif" alt="Local GIF" width="1080">
