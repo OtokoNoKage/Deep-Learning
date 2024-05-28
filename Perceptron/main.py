@@ -35,8 +35,10 @@ if __name__ == "__main__":
     Y_jax_train = jnp.array(Y_train)
     Y_jax_validation = jnp.array(Y_validation)
 
-    # Modèle
+    # Fonction d'activation
     activation_name = "Sigmum"
+    
+    # Modèle
     model = Perceptron(shape=X.shape[1], activation_name=activation_name)
 
     # Fonction coût

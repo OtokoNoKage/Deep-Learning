@@ -47,7 +47,7 @@ class Animation:
             ax[0][0].set_ylim(-2,2)
             ax[0][0].axis('off')
 
-            ax[0][0].set_title('Frontière de décision', fontsize=18)
+            ax[0][0].set_title('Decision Boundary', fontsize=18)
 
             # Fonction d'activation
             z = X.dot(W[i]) + b[i]
@@ -68,16 +68,16 @@ class Animation:
 
             ax[0][1].set_ylim(I[0], I[1])
 
-            ax[0][1].set_title('Fonction d\'activation:'+ " " + model.activation_name, fontsize=18)
+            ax[0][1].set_title('Activation Function:'+ " " + model.activation_name, fontsize=18)
 
 
             # Précision
             ax[1][0].plot(range(i),mean_accuracy[:i], color="green")
-            ax[1][0].set_title('Précision', fontsize=18)
+            ax[1][0].set_title('Accuracy', fontsize=18)
 
             # Coût (Perte) 
             ax[1][1].plot(range(i),mean_loss[:i], color="green")
-            ax[1][1].set_title('Perte (Loss)', fontsize=18)
+            ax[1][1].set_title('Loss', fontsize=18)
 
             fig.suptitle(f'Epoch: {i}/{self.epochs} | Learning Rate: {lr}\nAccuracy: {round(mean_accuracy[i-1:i][0],2)} | {loss_name}', fontsize=24)
 
