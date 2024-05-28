@@ -7,9 +7,9 @@ Ce projet implémente le modèle du perceptron en python et explicite, à traver
 
 ## Sigmoïde - LogLoss
 ### Training
-<div style="text-align: center;">
-    <img src="./Plots/Train-Perceptron-(Sigmoid-LogLoss).gif" alt="Local GIF" width="1080">
-</div>
+<p align="center">
+  <img src="./Plots/Train-Perceptron-(Sigmoid-LogLoss).gif">
+</p>
 
 ### Validation
 <div style="text-align: center;">
