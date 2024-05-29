@@ -62,9 +62,5 @@ Les résultats sont obtenus avec la méthode Non-Maximum-Suppression (NMS):
 </p>
 
 <p align="center">
-  <img src="./Images/IoU_Threshold.png">
-</p>
-
-<p align="center">
   <img src="./Images/Percentage_Class.png">
 </p>
