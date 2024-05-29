@@ -13,6 +13,7 @@ Les résultats sont obtenus avec la méthode Non-Maximum-Suppression (NMS):
   - Seuil de fiabilité/confiance = 0.5
   - Seuil IoU entre cadres englobants prédits = 0.2 (Parcourir le reste du tri, supprimer ceux dont la valeur IoU avec le "meilleur" cadre est égale ou supérieur à un seuil définit)
 
+mAP = mAP<sub>50</sub>
 |Version                               | Train mAP (%)| Validation mAP (%)| Test mAP (%)| Epoch Checkpoint|
 |:---:                                 |:---:         |:---:              |:---:        |:---:            |
 |Modified YOLOV1                       |14.95         |4.15               |3.53         |108              |
@@ -57,6 +58,10 @@ Les résultats sont obtenus avec la méthode Non-Maximum-Suppression (NMS):
 </table>
 
 ## **Statistiques sur la base de données (VOC2007)**
+Les statistiques sur le dataset, nous permettre de prendre des décisions, comme par exemple:
+  - utiliser de la data augmentation
+  - équilibrer les classes
+  - choisir les seuils
 <p align="center">
   <img src="./Images/IoU_Threshold.png">
 </p>
