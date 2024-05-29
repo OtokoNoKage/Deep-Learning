@@ -21,14 +21,14 @@ Les résultats sont obtenus avec la méthode Non-Maximum-Suppression (NMS):
   <tr>
     <td align="center">
       <figure>
-        <img src="./Images/M_YOLOV1_Val_CM.png" alt="YOLOV1 Validation CM" width="100%" height="100%">
+        <img src="./Images/M_YOLOV1_Val_CM.png" width="100%">
         <figcaption>YOLOV1 Validation CM</figcaption>
       </figure>
     </td>
     <td align="center">
       <figure>
-        <img src="./Images/M_YOLOV1_Data_Aug_Val_CM.png" alt="YOLOV1 Data Aug Validation CM" width="100%" height="100%">
-        <figcaption>YOLOV1 Data Augmentation Validation CM</figcaption>
+        <img src="./Images/M_YOLOV1_Data_Aug_Val_CM.png" width="100%">
+        <figcaption>YOLOV1 Data Aug Validation CM</figcaption>
       </figure>
     </td>
   </tr>
