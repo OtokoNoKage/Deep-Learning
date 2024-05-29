@@ -9,7 +9,7 @@ Modified YOLOV1:
   -  YOLOV1 Head
 
 ## **Résultats**
-Le modèle a été entrainé sur des images de taille 224x224 sur 135 itérations (Pour plus de détails, voir le code). L'augmentation a quadruplé la base et les résultats sont obtenus avec la méthode Non-Maximum-Suppression (NMS):
+Le modèle a été entraîné sur des images de taille 224x224 sur 135 itérations (pour plus de détails, voir le code). L'augmentation a quadruplé la base et les résultats sont obtenus avec la méthode Non-Maximum-Suppression (NMS):
   - Seuil de fiabilité/confiance = 0.5
   - Seuil IoU entre cadres englobants prédits = 0.2 (Parcourir le reste du tri, supprimer ceux dont la valeur IoU avec le "meilleur" cadre est égale ou supérieur à un seuil définit)
 
