@@ -57,12 +57,12 @@ Les résultats sont obtenus avec la méthode Non-Maximum-Suppression (NMS):
   <tr>
     <td align="center">
       <figure>
-        <img src="./Images/image_pred.png" width="50%" height="50%">
+        <img src="./Images/image_pred.png" width="100%" height="100%">
       </figure>
     </td>
     <td align="center">
       <figure>
-        <img src="./Images/image_pred0.png" width="50%" height="50%">
+        <img src="./Images/image_pred0.png" width="100%" height="100%">
       </figure>
     </td>
   </tr>
@@ -72,12 +72,12 @@ Les résultats sont obtenus avec la méthode Non-Maximum-Suppression (NMS):
   <tr>
     <td align="center">
       <figure>
-        <img src="./Images/image_pred1.png" width="50%" height="50%">
+        <img src="./Images/image_pred1.png" width="100%" height="100%">
       </figure>
     </td>
     <td align="center">
       <figure>
-        <img src="./Images/image_pred2.png" width="50%" height="50%">
+        <img src="./Images/image_pred2.png" width="100%" height="100%">
       </figure>
     </td>
   </tr>
