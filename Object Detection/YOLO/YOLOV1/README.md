@@ -1,6 +1,6 @@
-# ***Implémentation de YOLOV1 sur PyTorch***
+# **Implémentation de YOLOV1 sur PyTorch**
 Modified YOLOV1:
-  -  Backbone: EfficientNetV2B2s
+  -  Backbone: EfficientNetV2B2S
   -  YOLOV1 Head
 
 Les résultats sont obtenus avec la méthode Non-Maximum-Suppression (NMS):
@@ -12,3 +12,5 @@ Les résultats sont obtenus avec la méthode Non-Maximum-Suppression (NMS):
 |:---:                              |:---:         |:---:              |:---:        |:---:            |
 |Modified YOLOV1                    |14.95         |4.15               |3.53         |108              |
 |Modified YOLOV1 (Data Augmentation)|21.39         |13.13              |13.13        |93               |
+
+## **Matrice de Confusion**
