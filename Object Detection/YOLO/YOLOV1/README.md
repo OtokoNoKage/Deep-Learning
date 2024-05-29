@@ -15,16 +15,29 @@ Les résultats sont obtenus avec la méthode Non-Maximum-Suppression (NMS):
 |Modified YOLOV1 (Data Augmentation)|21.39         |13.13              |13.13        |93               |
 
 ## **Matrice de Confusion**
+
 ### **Validation**
 <p align="center">
-  <img width = 49% height= 49% src="./Images/M_YOLOV1_Val_CM.png">
-  <img width = 49% height= 49% src="./Images/M_YOLOV1_Data_Aug_Val_CM.png">
+  <figure style="display: inline-block; margin: 0 1%;">
+    <img src="./Images/M_YOLOV1_Val_CM.png" alt="YOLOV1 Validation CM" width="100%" height="auto">
+    <figcaption align="center">YOLOV1 Validation CM</figcaption>
+  </figure>
+  <figure style="display: inline-block; margin: 0 1%;">
+    <img src="./Images/M_YOLOV1_Data_Aug_Val_CM.png" alt="YOLOV1 Data Augmentation Validation CM" width="100%" height="auto">
+    <figcaption align="center">YOLOV1 Data Augmentation Validation CM</figcaption>
+  </figure>
 </p>
 
 ### **Test**
 <p align="center">
-  <img width = 49% height= 49%  src="./Images/M_YOLOV1_Test_CM.png">
-  <img width = 49% height= 49%  src="./Images/M_YOLOV1_Data_Aug_Test_CM.png">
+  <figure style="display: inline-block; margin: 0 1%;">
+    <img src="./Images/M_YOLOV1_Test_CM.png" alt="YOLOV1 Test CM" width="100%" height="auto">
+    <figcaption align="center">YOLOV1 Test CM</figcaption>
+  </figure>
+  <figure style="display: inline-block; margin: 0 1%;">
+    <img src="./Images/M_YOLOV1_Data_Aug_Test_CM.png" alt="YOLOV1 Data Augmentation Test CM" width="100%" height="auto">
+    <figcaption align="center">YOLOV1 Data Augmentation Test CM</figcaption>
+  </figure>
 </p>
 
 ## **Exemple de prédiction du modèle**
