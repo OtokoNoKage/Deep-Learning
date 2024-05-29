@@ -64,3 +64,7 @@ Les résultats sont obtenus avec la méthode Non-Maximum-Suppression (NMS):
 <p align="center">
   <img src="./Images/Percentage_Class.png">
 </p>
+
+<p align="center">
+  <img src="./Images/Distribution_Class.png">
+</p>
