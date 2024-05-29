@@ -64,7 +64,7 @@ Les résultats sont obtenus avec la méthode Non-Maximum-Suppression (NMS):
     <td align="center" style="vertical-align: top;">
       <figure style="margin: 0;">
         <img src="./Images/image_true.png" alt="Vérité terrain" style="width: 100%; height: auto;">
-        <figcaption style="font-family: Arial, sans-serif; font-size: 12px; font-weight: bold; text-align: center;">Vérité terrain</figcaption>
+        <figcaption style="font-family: Arial, sans-serif; font-size: 12px; font-weight: bold; text-align: center;">Vérité</figcaption>
       </figure>
     </td>
   </tr>
