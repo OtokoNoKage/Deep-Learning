@@ -2,7 +2,7 @@
 Deux versions de YOLOV1 sont disponibles dans le notebook:
   - L'originale avec une légère modification sur la tête du modèle
   - Version modifiée
-  - 
+
 ## **Architecture**
 Modified YOLOV1:
   -  Backbone: EfficientNetV2B2S
