@@ -54,19 +54,18 @@ Les résultats sont obtenus avec la méthode Non-Maximum-Suppression (NMS):
 
 ## **Exemples de prédiction du modèle**
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <div style="margin: 10px; text-align: center;">
-    <img src="./Images/image_pred.png"style="width: 200px; height: auto;">
+    <img src="./Images/image_pred.png" style="width: 200px; height: auto;">
   </div>
   <div style="margin: 10px; text-align: center;">
-    <img src="./Images/image_pred0.png" alt="Vérité terrain" style="width: 200px; height: auto;">
+    <img src="./Images/image_pred0.png" style="width: 200px; height: auto;">
   </div>
   <!-- Ajoutez plus d'images de la même manière -->
   <div style="margin: 10px; text-align: center;">
     <img src="./Images/image_pred1.png" style="width: 200px; height: auto;">
   </div>
   <div style="margin: 10px; text-align: center;">
-    <img src="./Images/image_pred2.png" alt="Vérité terrain 2" style="width: 200px; height: auto;">
+    <img src="./Images/image_pred2.png" style="width: 200px; height: auto;">
   </div>
 </div>
-
