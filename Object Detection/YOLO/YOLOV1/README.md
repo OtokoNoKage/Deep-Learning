@@ -28,7 +28,7 @@ Les résultats sont obtenus avec la méthode Non-Maximum-Suppression (NMS):
     <td align="center">
       <figure>
         <img src="./Images/M_YOLOV1_Data_Aug_Val_CM.png" width="100%">
-        <figcaption style="font-family: Arial, sans-serif; font-size: 2px; font-weight: bold;">YOLOV1 Data Augmentation Validation CM</figcaption>
+        <figcaption style="font-family: Arial, sans-serif; font-size: 2px; font-weight: bold;">YOLOV1 DA Validation CM</figcaption>
       </figure>
     </td>
   </tr>
