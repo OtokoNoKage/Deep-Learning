@@ -52,7 +52,7 @@ Les résultats sont obtenus avec la méthode Non-Maximum-Suppression (NMS):
   </tr>
 </table>
 
-## **Exemple de prédiction du modèle**
+## **Exemples de prédiction du modèle**
 <p align="center">
-  <img src="./Images/image_pred.png">
+  <img src="./Images/image_pred.png" width="150%" height="150%">
 </p>
