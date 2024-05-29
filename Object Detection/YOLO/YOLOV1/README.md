@@ -51,9 +51,3 @@ Les résultats sont obtenus avec la méthode Non-Maximum-Suppression (NMS):
     </td>
   </tr>
 </table>
-
-## **Exemples de prédiction du modèle**
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![](./Images/image_pred.png)  |  ![](./Images/image_pred0.png)
-
