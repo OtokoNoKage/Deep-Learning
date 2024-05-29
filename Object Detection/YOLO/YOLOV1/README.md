@@ -19,11 +19,11 @@ Les résultats sont obtenus avec la méthode Non-Maximum-Suppression (NMS):
 ### **Validation**
 <p align="center">
   <figure style="display: inline-block; margin: 0 0%;">
-    <img src="./Images/M_YOLOV1_Val_CM.png" alt="YOLOV1 Validation CM" width="45%" height="45%">
+    <img src="./Images/M_YOLOV1_Val_CM.png" alt="YOLOV1 Validation CM" width="40%" height="40%">
     <figcaption align="center">YOLOV1 Validation CM</figcaption>
   </figure>
   <figure style="display: inline-block; margin: 0 0%;">
-    <img src="./Images/M_YOLOV1_Data_Aug_Val_CM.png" alt="YOLOV1 Data Augmentation Validation CM" width="45%" height="45%">
+    <img src="./Images/M_YOLOV1_Data_Aug_Val_CM.png" alt="YOLOV1 Data Augmentation Validation CM" width="40%" height="40%">
     <figcaption align="center">YOLOV1 Data Augmentation Validation CM</figcaption>
   </figure>
 </p>
