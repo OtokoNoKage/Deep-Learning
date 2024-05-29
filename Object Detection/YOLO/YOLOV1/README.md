@@ -53,19 +53,7 @@ Les résultats sont obtenus avec la méthode Non-Maximum-Suppression (NMS):
 </table>
 
 ## **Exemples de prédiction du modèle**
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](./Images/image_pred.png)  |  ![](./Images/image_pred0.png)
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <div style="margin: 10px; text-align: center;">
-    <img src="./Images/image_pred.png" style="width: 200px; height: auto;">
-  </div>
-  <div style="margin: 10px; text-align: center;">
-    <img src="./Images/image_pred0.png" style="width: 200px; height: auto;">
-  </div>
-  <!-- Ajoutez plus d'images de la même manière -->
-  <div style="margin: 10px; text-align: center;">
-    <img src="./Images/image_pred1.png" style="width: 200px; height: auto;">
-  </div>
-  <div style="margin: 10px; text-align: center;">
-    <img src="./Images/image_pred2.png" style="width: 200px; height: auto;">
-  </div>
-</div>
