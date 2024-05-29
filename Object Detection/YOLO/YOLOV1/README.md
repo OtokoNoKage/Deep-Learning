@@ -17,7 +17,7 @@ Les résultats sont obtenus avec la méthode Non-Maximum-Suppression (NMS):
 ## **Matrice de Confusion**
 
 ### **Validation**
-<table align="center>
+<table>
   <tr>
     <td align="center">
       <figure>
