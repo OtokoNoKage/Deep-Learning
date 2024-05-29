@@ -53,6 +53,19 @@ Les résultats sont obtenus avec la méthode Non-Maximum-Suppression (NMS):
 </table>
 
 ## **Exemple de prédiction du modèle**
-<p align="center">
-  <img src="./Plots/Train-Perceptron-(Sigmoid-LogLoss).gif">
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <figure>
+        <img src="./Images/image_pred.png" width="100%">
+        <figcaption style="font-family: Arial, sans-serif; font-size: 2px; font-weight: bold;">Prédictions</figcaption>
+      </figure>
+    </td>
+    <td align="center">
+      <figure>
+        <img src="./Images/image_true.png" width="100%">
+        <figcaption style="font-family: Arial, sans-serif; font-size: 2px; font-weight: bold;">Vérité terrain</figcaption>
+      </figure>
+    </td>
+  </tr>
+</table>
