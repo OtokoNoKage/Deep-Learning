@@ -61,7 +61,7 @@ mAP = mAP<sub>50</sub>
 Les statistiques sur le dataset, nous permettre de prendre des décisions, comme par exemple:
   - utiliser de la data augmentation
   - équilibrer les classes
-  - choisir les seuils
+  - choisir les seuils de confiance et de redondance
 <p align="center">
   <img src="./Images/IoU_Threshold.png">
 </p>
