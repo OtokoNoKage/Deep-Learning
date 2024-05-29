@@ -58,7 +58,7 @@ Les résultats sont obtenus avec la méthode Non-Maximum-Suppression (NMS):
     <td align="center" style="vertical-align: top;">
       <figure style="margin: 0;">
         <img src="./Images/image_pred.png" alt="Prédictions" style="width: 100%; height: auto;">
-        <figcaption style="font-family: Arial, sans-serif; font-size: 12px; font-weight: bold; text-align: center;">Prédictions</figcaption>
+        <figcaption style="font-family: Arial, sans-serif; font-size: 12px; font-weight: bold; text-align: center;">Prédiction</figcaption>
       </figure>
     </td>
     <td align="center" style="vertical-align: top;">
