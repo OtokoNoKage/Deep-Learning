@@ -17,28 +17,40 @@ Les résultats sont obtenus avec la méthode Non-Maximum-Suppression (NMS):
 ## **Matrice de Confusion**
 
 ### **Validation**
-<p align="center">
-  <figure style="display: inline-block; margin: 0 1%;">
-    <img src="./Images/M_YOLOV1_Val_CM.png" alt="YOLOV1 Validation CM" width="100%" height="auto">
-    <figcaption align="center">YOLOV1 Validation CM</figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 0 1%;">
-    <img src="./Images/M_YOLOV1_Data_Aug_Val_CM.png" alt="YOLOV1 Data Augmentation Validation CM" width="100%" height="auto">
-    <figcaption align="center">YOLOV1 Data Augmentation Validation CM</figcaption>
-  </figure>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <figure>
+        <img src="./Images/M_YOLOV1_Val_CM.png" alt="YOLOV1 Validation CM" width="100%">
+        <figcaption>YOLOV1 Validation CM</figcaption>
+      </figure>
+    </td>
+    <td align="center">
+      <figure>
+        <img src="./Images/M_YOLOV1_Data_Aug_Val_CM.png" alt="YOLOV1 Data Augmentation Validation CM" width="100%">
+        <figcaption>YOLOV1 Data Augmentation Validation CM</figcaption>
+      </figure>
+    </td>
+  </tr>
+</table>
 
 ### **Test**
-<p align="center">
-  <figure style="display: inline-block; margin: 0 1%;">
-    <img src="./Images/M_YOLOV1_Test_CM.png" alt="YOLOV1 Test CM" width="100%" height="auto">
-    <figcaption align="center">YOLOV1 Test CM</figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 0 1%;">
-    <img src="./Images/M_YOLOV1_Data_Aug_Test_CM.png" alt="YOLOV1 Data Augmentation Test CM" width="100%" height="auto">
-    <figcaption align="center">YOLOV1 Data Augmentation Test CM</figcaption>
-  </figure>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <figure>
+        <img src="./Images/M_YOLOV1_Test_CM.png" alt="YOLOV1 Test CM" width="100%">
+        <figcaption>YOLOV1 Test CM</figcaption>
+      </figure>
+    </td>
+    <td align="center">
+      <figure>
+        <img src="./Images/M_YOLOV1_Data_Aug_Test_CM.png" alt="YOLOV1 Data Augmentation Test CM" width="100%">
+        <figcaption>YOLOV1 Data Augmentation Test CM</figcaption>
+      </figure>
+    </td>
+  </tr>
+</table>
 
 ## **Exemple de prédiction du modèle**
 
