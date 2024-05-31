@@ -1,0 +1,79 @@
+{
+    "os": "Linux-5.15.0-107-generic-x86_64-with-glibc2.35",
+    "python": "3.10.12",
+    "heartbeatAt": "2024-05-31T15:30:38.640393",
+    "startedAt": "2024-05-31T15:30:37.605390",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://OtokoNoKage:@github.com/OtokoNoKage/Deep-Learning.git",
+        "commit": "ddf0fc22eb02f30723d276290d6fb06705426ac1"
+    },
+    "email": "your.email@example.com",
+    "root": "/data/Documents/GM/IA/GitHub/Deep-Learning",
+    "host": "titan-muscle-up",
+    "username": "cytech",
+    "executable": "/bin/python3",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 2465.7185,
+        "min": 400.0,
+        "max": 4200.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2100.0,
+            "min": 400.0,
+            "max": 4200.0
+        },
+        {
+            "current": 2100.0,
+            "min": 400.0,
+            "max": 4200.0
+        },
+        {
+            "current": 2100.0,
+            "min": 400.0,
+            "max": 4200.0
+        },
+        {
+            "current": 2100.0,
+            "min": 400.0,
+            "max": 4200.0
+        },
+        {
+            "current": 2100.0,
+            "min": 400.0,
+            "max": 4200.0
+        },
+        {
+            "current": 2625.741,
+            "min": 400.0,
+            "max": 4200.0
+        },
+        {
+            "current": 2100.0,
+            "min": 400.0,
+            "max": 4200.0
+        },
+        {
+            "current": 3300.014,
+            "min": 400.0,
+            "max": 4200.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 117.55816650390625,
+            "used": 107.54560470581055
+        }
+    },
+    "memory": {
+        "total": 7.393383026123047
+    }
+}
