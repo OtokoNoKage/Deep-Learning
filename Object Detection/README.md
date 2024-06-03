@@ -7,7 +7,7 @@ L'intelligence artificielle est un domaine à l'intersection, principalement, de
 
 # Modèles/Méthodes
 Depuis l'un des premiers réseaux de neurones convolutifs (CNN) connus et utilisés avec succès, **LeNet** en 1998, les CNN ont connu de nombreuses évolutions. La création d'ensembles de données massifs comme ImageNet, l'organisation de compétitions liées à ces ensembles de données, et l'utilisation généralisée des unités de traitement graphique (GPU) ont eu un impact direct sur la recherche et le développement d'outils dans ce domaine. Ainsi, durant la dernière décennie, les technologies en détection d'objets se sont développées sur une approche similaire, mais avec toutefois des différences notables, notamment avec des architectures telles que:
-- **{R-CNN** (**R**egion Based **C**onvolutional **N**eural **N**etworks, 2013)
+- **R-CNN** (**R**egion Based **C**onvolutional **N**eural **N**etworks, 2013)
 - **Fast R-CNN** (Avril 2015)
 - **Faster R-CNN** (Juin 2015)
 - **YOLO** (**Y**ou **O**nly **L**ook **O**nce, Juin 2015)
