@@ -11,5 +11,5 @@ Depuis l'un des premiers réseaux de neurones convolutifs (CNN) connus et utilis
 - **Fast R-CNN** (Avril 2015)
 - **Faster R-CNN** (Juin 2015)
 - **YOLO** (**Y**ou **O**nly **L**ook **O**nce, Juin 2015)
-- **SSD* (**S**ingle **S**hot MultiBox **D**etector, Décembre 2015)
+- **SSD** (**S**ingle **S**hot MultiBox **D**etector, Décembre 2015)
 - **ViT** (**Vi**sion **T**ransformer, 2020)
