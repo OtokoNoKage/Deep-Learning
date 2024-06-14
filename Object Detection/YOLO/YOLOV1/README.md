@@ -15,11 +15,11 @@ Le modèle a été entraîné sur des images de taille 224x224 sur 135 itératio
 
 mAP = mAP<sub>50</sub>
 DA = Data Augmentation
-|Version                               | Train mAP (%)| Validation mAP (%)| Test mAP (%)| Epoch Checkpoint|
-|:---:                                 |:---:         |:---:              |:---:        |:---:            |
-|YOLOV1 DA                             |0.245         |0.261              |0.171        |108              |
-|Modified YOLOV1                       |14.95         |4.15               |3.53         |108              |
-|Modified YOLOV1 DA                    |21.39         |13.13              |13.13        |93               |
+|Version                               | Train mAP (%)| Validation mAP (%)| Test mAP (%)| Epoch Checkpoint| Num Parameters |
+|:---:                                 |:---:         |:---:              |:---:        |:---:            |:---:           |
+|YOLOV1 DA                             |0.245         |0.261              |0.171        |108              |133 304 702     |
+|Modified YOLOV1                       |14.95         |4.15               |3.53         |108              |36 611 854      |
+|Modified YOLOV1 DA                    |21.39         |13.13              |13.13        |93               |36 611 854      |
 
 ## **Matrice de Confusion**
 
