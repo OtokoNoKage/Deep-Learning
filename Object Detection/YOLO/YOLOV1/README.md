@@ -5,7 +5,7 @@ Deux versions de YOLOV1 sont disponibles dans le notebook:
 
 ## **Architecture**
 Modified YOLOV1:
-  -  Backbone: EfficientNetV2B2S
+  -  Backbone: EfficientNetV2S (pré-entraîné sur ImageNet)
   -  YOLOV1 Head
 
 ## **Résultats**
@@ -20,6 +20,8 @@ DA = Data Augmentation
 |YOLOV1 DA                             |0.245         |0.261              |0.171        |108              |133 304 702     |
 |Modified YOLOV1                       |14.95         |4.15               |3.53         |108              |36 611 854      |
 |Modified YOLOV1 DA                    |21.39         |13.13              |13.13        |93               |36 611 854      |
+
+Les mauvais résulats de YOLOV1 DA est principalement dû au non pré-entraînement des poids du modèle sur un base de données de classification comme ImageNet. Alors que Modified YOLOV1 utilise comme backbone EfficientNetV2S pré-entraîné.
 
 ## **Matrice de Confusion**
 
