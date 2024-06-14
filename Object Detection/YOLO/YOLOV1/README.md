@@ -21,7 +21,7 @@ DA = Data Augmentation
 |Modified YOLOV1                       |14.95         |4.15               |3.53         |108              |36 611 854      |
 |Modified YOLOV1 DA                    |21.39         |13.13              |13.13        |93               |36 611 854      |
 
-Les mauvais résulats de YOLOV1 DA est principalement dû au non pré-entraînement des poids du modèle sur un base de données de classification comme ImageNet. Alors que Modified YOLOV1 utilise comme backbone EfficientNetV2S pré-entraîné.
+Les mauvais résultats de YOLOV1 DA est principalement dû au non-pré-entraînement des poids du modèle sur un base de données de classification comme ImageNet. Alors que Modified YOLOV1 utilise comme backbone EfficientNetV2S pré-entraîné.
 
 ## **Matrice de Confusion**
 
