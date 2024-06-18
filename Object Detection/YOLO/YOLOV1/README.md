@@ -14,8 +14,8 @@ Le modèle a été entraîné sur des images de taille 224x224 sur 135 itératio
   - Seuil IoU entre cadres englobants prédits = 0.2 (Parcourir le reste du tri, supprimer ceux dont la valeur IoU avec le "meilleur" cadre est égale ou supérieur à un seuil définit)
 
 mAP = mAP<sub>50</sub>
-
 DA = Data Augmentation
+
 |Version                               | Train mAP (%)| Validation mAP (%)| Test mAP (%)| Epoch Checkpoint| Num Parameters |
 |:---:                                 |:---:         |:---:              |:---:        |:---:            |:---:           |
 |YOLOV1 DA                             |0.245         |0.261              |0.171        |108              |133 304 702     |
