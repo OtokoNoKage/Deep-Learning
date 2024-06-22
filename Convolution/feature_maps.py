@@ -9,7 +9,7 @@ dir_path = os.path.dirname(file_path)
 
 if __name__ == "__main__":
     image = Image.open(dir_path + '/Images/Rhaenyra.png')
-    image = transforms.Compose([
+    transform = transforms.Compose([
             transforms.Resize(224),
             transforms.ToTensor(),
             transforms.Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])])
@@ -20,7 +20,8 @@ if __name__ == "__main__":
 
     BATCH = 1
     SIZE = 224
-    x = torch.rand((BATCH, 3, SIZE, SIZE))
+    x = (transform(image)).unsqueeze(0)
+    print(x.shape)
     feature_maps = model(x)[0]
     feature_maps = feature_maps[0:100, ...]
 
