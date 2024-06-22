@@ -13,7 +13,7 @@ Le modèle a été entraîné sur des images de taille 224x224 sur 135 itératio
   - Seuil de fiabilité/confiance = 0.5
   - Seuil IoU entre cadres englobants prédits = 0.2 (Parcourir le reste du tri, supprimer ceux dont la valeur IoU avec le "meilleur" cadre est égale ou supérieur à un seuil définit)
 
-mAP = mAP<sub>50</sub>
+mAP = mAP<sub>50</sub></br>
 DA = Data Augmentation
 |Version                               | Train mAP (%)| Validation mAP (%)| Test mAP (%)| Epoch Checkpoint| Num Parameters |
 |:---:                                 |:---:         |:---:              |:---:        |:---:            |:---:           |
